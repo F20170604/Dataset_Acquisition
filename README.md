@@ -28,4 +28,4 @@ abruptly, our data is not lost
 
 # PROJECT DESIGN
 
-![](images/System Design.png?raw=true)
+![alt text](https://github.com/Ayush517/Dataset_Acquisition/blob/master/images/System%20Design.png "System Design")
