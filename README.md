@@ -26,6 +26,22 @@ abruptly, our data is not lost
 * Polyglot Codebase - Using Java as the main language for backend gives us 2.5x faster operations in comparison to Python. Python is used for Machine Learning happening and is only invoked when needed.
 * Hash Tables are used for Data Queries to provide amortised O(1) Time complexity for search, add and replace operations.
 
+Our game is inspired from the game of Candy Crush. But it will be different in ways where instead of just colours, we will emphasise on both the colour relation as well as the Semantic Strength in the game.
+It’s a simple and easy to play game with a lightweight UI to improve time latency while queries are made between FrontEnd and BackEnd.
+
+
 # PROJECT DESIGN
 
+### System Design
 ![alt text](https://github.com/Ayush517/Dataset_Acquisition/blob/master/images/System%20Design.png "System Design")
+
+### Project Architecture
+![alt text](https://github.com/Ayush517/Dataset_Acquisition/blob/master/images/Package%20Architecture.png "Package Architecture")
+
+### Languages Used
+
+Python - For Word Prediction using Machine Learning through word2Vec using GoogleNews-vectors- negative300 as pre-trained embeddings which have been provided by Google.
+
+Java - For Software Architecture and Backend
+
+Python and Java interact with each other and transfer data using Process Builder making this a Polyglot Codebase.
