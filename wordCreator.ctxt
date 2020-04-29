@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=wordCreator
+comment1.params=spelling
+comment1.target=Word\ createWord(java.lang.String)
+comment2.params=spelling\ x
+comment2.target=Word\ createWord(java.lang.String,\ int)
+comment3.params=x\ length
+comment3.target=int\ getMaxDepthPossible(int,\ int)
+numComments=4

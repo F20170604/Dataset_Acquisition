@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=scoreGeneratorProcess
+comment1.params=englishWord
+comment1.target=scoreGeneratorProcess(java.lang.String)
+comment2.params=englishWord
+comment2.target=java.lang.String\ getMostRelatedWord(java.lang.String)
+comment3.params=word
+comment3.target=scoreGeneratorProcess.graphAndScore\ getConnectedGraphAndScore(Word)
+comment4.params=addScore
+comment4.target=void\ modifyScore(int)
+comment5.params=
+comment5.target=void\ structureMaintainer()
+numComments=6

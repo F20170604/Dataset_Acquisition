@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=spelling\ color\ score\ length\ x\ y
+comment1.target=Word(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=int\ hashCode()
+numComments=4

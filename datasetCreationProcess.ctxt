@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=datasetCreationProcess
+comment1.params=englishWord\ secondLanguageWord
+comment1.target=void\ addEntry(java.lang.String,\ java.lang.String)
+numComments=2

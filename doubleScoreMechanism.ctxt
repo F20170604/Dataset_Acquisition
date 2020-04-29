@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=doubleScoreMechanism
+comment1.params=spelling
+comment1.target=boolean\ doubleScoreMechanism(java.lang.String)
+comment2.params=spelling
+comment2.target=boolean\ mutationPossible(java.lang.String)
+comment3.params=spelling
+comment3.target=void\ doubleScore(java.lang.String)
+numComments=4

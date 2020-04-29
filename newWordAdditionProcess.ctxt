@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=newWordAdditionProcess
+comment1.params=word
+comment1.target=boolean\ wordFill(Word)
+comment2.params=englishWord
+comment2.target=java.lang.String\ nextWordPredictor(java.lang.String)
+comment3.params=englishWord
+comment3.target=java.lang.String\ predict(java.lang.String)
+numComments=4

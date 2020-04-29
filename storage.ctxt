@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=storage
+comment1.params=spelling\ word
+comment1.target=boolean\ add(java.lang.String,\ Word)
+comment2.params=spelling
+comment2.target=boolean\ remove(java.lang.String)
+comment3.params=spelling\ word
+comment3.target=void\ replace(java.lang.String,\ Word)
+numComments=4

@@ -1,0 +1,5 @@
+f = open("inputConnection.txt", "r")
+f1 = f.readlines()
+#print(f1[0].strip())
+#print(f1[1].strip())
+print("0.343873")
