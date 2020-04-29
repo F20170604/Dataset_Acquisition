@@ -131,6 +131,8 @@ single return statement i.e. an Integer and an ArrayList.
   
 # Work Left
 
-- Rectify StructureMaintainer - Currently supports only 1 level drop. Update to multi-level drop needed • Improve Python Codebase Performance
-- Caching/Service Linking needed to pre train word2Vec used embeddings just once instead of again and again for every function call
-- Improve Python-Java Communication Interface : Might use MicroServices Architecture • Multi Colour support for a Word Cell
+- Rectify StructureMaintainer - Currently supports only 1 level drop. Update to multi-level drop needed
+- Improve Python Codebase Performance
+  - Caching/Service Linking needed to pre train word2Vec used embeddings just once instead of again and again for every function call
+  - Improve Python-Java Communication Interface : Might use MicroServices Architecture
+- Multi Colour support for a Word Cell
